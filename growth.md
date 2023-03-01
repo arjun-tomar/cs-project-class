@@ -1,2 +1,1 @@
-This file was made to showcase my growth and knowledge throughout the course. If you are viewing this with the malicious intent to steal code to violate academic integrity.
-PLEASE DO NOT! Learn and grow, so you can solve the problem by yourself.
+This file was made to showcase my growth and knowledge throughout the introductory course. I am not disclosing the name of the course as to prevent students urrently taking the course from getting to this. If you are viewing this with the malicious intent to steal code to violate academic integrity, PLEASE DO NOT! Learn and grow, so you can solve the problem by yourself.
